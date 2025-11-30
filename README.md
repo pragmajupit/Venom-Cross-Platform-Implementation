@@ -204,13 +204,6 @@ like this:
 
 ![](https://user-images.githubusercontent.com/10519803/101791171-e524b800-3b0b-11eb-98fa-29b7a50c3b67.png)
 
-7. __File > Swift Packages > Add Package Dependency__  **https://github.com/nerzh/ton-client-swift**
-
-
-![](https://user-images.githubusercontent.com/10519803/101791238-fa99e200-3b0b-11eb-99f3-8e8120c57e96.png)
-
-8. Build project ...
-
 ## Tests
 ### If you use Xcode for Test
 
